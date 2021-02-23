@@ -9,7 +9,7 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
 4. Gradient descent of multiple variables
 5. Feature normalization
 6. Normal Equation 
-7.  
+
 <pre>
  
                                    Part Name |     Score | Feedback
