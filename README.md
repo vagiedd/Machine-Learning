@@ -4,7 +4,7 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
 ## ex1 First Homework Assignment
 
 
-'''
+<pre>
  
                                    Part Name |     Score | Feedback
                                    --------- |     ----- | --------
@@ -18,4 +18,4 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
                                    --------------------------------
                                              | 100 / 100 | 
  
-'''
+</pre>
