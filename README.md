@@ -2,7 +2,7 @@
 Homework and lectures to Standford’s Machine Learning class through Coursera.
 
 # Table of Contents
-1. [ex1 Linear Regression](#ex1 Linear Regression)
+1. [ex1 Linear Regression](#ex1-Linear-Regression)
 ## ex1 Linear Regression 
 
 Objectives
