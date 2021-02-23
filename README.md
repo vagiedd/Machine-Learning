@@ -38,4 +38,3 @@ Sample Plots
 
 ## Logistic Regression ex2
 
-fill in here
