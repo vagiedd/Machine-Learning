@@ -36,6 +36,6 @@ Sample Plots
  <img src="https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/44F27504-4BD8-4F1D-9BE7-F3B72BEB24C7.png" width="50%" height="50%">
 </p>
 
-## Logistic Regressiona ex2
+## Logistic Regression ex2
 
 fill in here
