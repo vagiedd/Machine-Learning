@@ -1,9 +1,15 @@
 # MachineLearning-Matlab
 Homework and lectures to Standford’s Machine Learning class through Coursera.
 
-## ex1 First Homework Assignment
+## ex1 Linear Regression 
 
-
+1. Compute cost function of single variable
+2. Compute cost function of multiple variables
+3. Gradient descent of single variable
+4. Gradient descent of multiple variables
+5. Feature normalization
+6. Normal Equation 
+7.  
 <pre>
  
                                    Part Name |     Score | Feedback
