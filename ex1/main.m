@@ -33,6 +33,7 @@ predict1 = [1, 3.5] *theta;
 theta0_vals = linspace(-10, 10, 100);
 theta1_vals = linspace(-1, 4, 100);
 
+
 % initialize J_vals to a matrix of 0's
 J_vals = zeros(length(theta0_vals), length(theta1_vals));
 
