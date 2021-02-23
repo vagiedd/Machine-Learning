@@ -3,7 +3,7 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
 
 ## ex1 First Homework Assignment
 
->
+>{
                                    Part Name |     Score | Feedback
                                              |           | 
                             Warm-up Exercise |  10 /  10 | Nice work!
@@ -13,7 +13,7 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
      Computing Cost (for Multiple Variables) |   0 /   0 | Nice work!
    Gradient Descent (for Multiple Variables) |   0 /   0 | Nice work!
                             Normal Equations |   0 /   0 | Nice work!
-                                             | 100 / 100 | 
+                                             | 100 / 100 | }
 
 
 
