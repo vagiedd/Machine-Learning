@@ -2,10 +2,10 @@
 Homework and lectures to Standford’s Machine Learning class through Coursera.
 
 # Table of Contents
-1. [ex1 - Linear Regression](#ex1-Linear-Regression)
-2. [ex2 - Logistic Regression](#ex2-Logistic-Regression)
+1. [Linear Regression ex1](#Linear-Regression-ex1)
+2. [Logistic Regression ex2](#Logistic-Regression-ex2)
 
-## ex1 - Linear Regression 
+## Linear Regression ex1
 
 Objectives
 
@@ -36,4 +36,4 @@ Sample Plots
  <img src="https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/44F27504-4BD8-4F1D-9BE7-F3B72BEB24C7.png" width="50%" height="50%">
 </p>
 
-## ex2 - Logistic Regression
+## Logistic Regressiona ex2
