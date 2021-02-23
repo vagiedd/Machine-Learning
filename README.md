@@ -19,3 +19,4 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
                                              | 100 / 100 | 
  
 </pre>
+![alt text](https://github.com/vagiedd/MachineLearning-Matlab/ex1/image.jpg?raw=true)
