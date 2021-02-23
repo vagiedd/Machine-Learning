@@ -10,7 +10,7 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
 5. Feature normalization
 6. Normal Equation 
 
-<pre>
+<pre align="center">
  
                                    Part Name |     Score | Feedback
                                    --------- |     ----- | --------
