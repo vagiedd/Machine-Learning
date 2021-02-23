@@ -19,4 +19,6 @@ Homework and lectures to Standford’s Machine Learning class through Coursera.
                                              | 100 / 100 | 
  
 </pre>
+
 ![alt text](https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/A39B530C-8953-450D-9631-6401FF86647B.png)
+<img src="https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/A39B530C-8953-450D-9631-6401FF86647B.png" width="50%" height="50%">
