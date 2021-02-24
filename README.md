@@ -1,5 +1,5 @@
 # MachineLearning-Matlab
-Homework and lectures to Standford’s Machine Learning class through Coursera.
+Homework and lectures to Standford’s Machine Learning class through Coursera. Each directory consisting of the exercise assignments contain the matlab functions for submition and a corresponding jupyter notebook that implements the methods in a python class. 
 
 # Table of Contents
 1. [Linear Regression ex1](#Linear-Regression-ex1)
