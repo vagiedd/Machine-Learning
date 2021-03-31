@@ -1,6 +1,11 @@
 # MachineLearning
-Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera.  
+Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera programmed in Matlab.  
 
+# Table of Contents 
+1. [MachineLearning](#MachineLeanring)
+
+# Machine Learning
+Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules contain examples that reproduce results from the Matlab coursera homework assignments. Supervised.py combines three mentioned modules. 
 <!---
 # Table of Contents
 1. [Linear Regression ex1](#Linear-Regression-ex1)
