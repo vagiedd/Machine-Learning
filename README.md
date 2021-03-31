@@ -3,14 +3,25 @@ Included is a collection of my machine learning projects as well as my homework 
 
 # Table of Contents 
 1. [MachineLearning](#MachineLearning)
-2. [Bank](#Bank)
+2. [Projects](#Projects)
 3. [machine-learning-ex](#machine-learning-ex)
 
 ## MachineLearning
 Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are included. Supervised.py combines the three mentioned modules.
 
-## Bank
+## Projects
+
+### bank
 Jupyter notebook of a classification problem that loads data from http://archive.ics.uci.edu/ml/datasets/Bank+Marketing and follows https://towardsdatascience.com/data-handling-using-pandas-machine-learning-in-real-life-be76a697418c to predict if the client will subscribe (yes/no) a term deposit. The code uses my implemented logistic regression and neural network codes as well as sklearn. The relevant csv files are also included. 
+
+### ApplianceEnergyPrediction
+Jupyter notebook of a regression problem that loads data from
+https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction. The data is take from 
+
+  Luis M. Candanedo, Veronique Feldheim, Dominique Deramaix, Data driven prediction models of energy use of appliances in a low-energy house, Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788. 
+  
+The models used were regularized linear regression and Gradient Boosting Machine. The linear regression included cross-validation and up to degrees 3 in polynomial features to achieve $R^2$ values of 0.405 and 0.356  for the training and test set respectively and Gradient Boosting Machine. Gradient Boosting included a 60,20,20 split in training, cross validation and test set. The cross validation was used to estimate the n_estimators argument of GradientBoostingRegression in sklearn with depth = 5.  The final $R^2$ values were 0.986 and 0.509 on the training and test set respectively similar to the results achieved in the reference. 
+
 
 ## machine-learning-ex
 Matlab homework assignments for the online certification course through Standford. Each homework assignment is labeled as ex(1-8). Various topics included are
