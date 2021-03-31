@@ -2,10 +2,14 @@
 Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera programmed in Matlab.  
 
 # Table of Contents 
-1. [Machine Learning](#MachineLeanring)
+1. [MachineLearning](#MachineLeanring)
+2. [Bank](#Bank)
 
-# Machine Learning
-Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules contain examples that reproduce results from the Matlab coursera homework assignments. Supervised.py combines three mentioned modules. 
+## MachineLearning
+Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are included. Supervised.py combines the three mentioned modules.
+
+## Bank
+Jupyter notebook of a classification problem that loads data from http://archive.ics.uci.edu/ml/datasets/Bank+Marketing and follows https://towardsdatascience.com/data-handling-using-pandas-machine-learning-in-real-life-be76a697418c to predict if the client will subscribe (yes/no) a term deposit. The code uses my implemented logistic regression and neural network codes as well as sklearn. 
 <!---
 # Table of Contents
 1. [Linear Regression ex1](#Linear-Regression-ex1)
