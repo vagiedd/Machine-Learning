@@ -13,7 +13,7 @@ Python modules that implement various machine learning models such as linear reg
 Jupyter notebook of a classification problem that loads data from http://archive.ics.uci.edu/ml/datasets/Bank+Marketing and follows https://towardsdatascience.com/data-handling-using-pandas-machine-learning-in-real-life-be76a697418c to predict if the client will subscribe (yes/no) a term deposit. The code uses my implemented logistic regression and neural network codes as well as sklearn. The relevant csv files are also included. 
 
 ## machine-learning-ex
-Matlab homework assignments for the online certification course through Standford. Each homework assignment is labeled as ex(1-8). Topics included are
+Matlab homework assignments for the online certification course through Standford. Each homework assignment is labeled as ex(1-8). Various topics included are
 - Linear Regression
 - Logistic Regression
 - Neural Networks
