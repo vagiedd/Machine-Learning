@@ -1,7 +1,7 @@
 # MachineLearning
 Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera.  
 
-
+<!---
 # Table of Contents
 1. [Linear Regression ex1](#Linear-Regression-ex1)
 2. [Logistic Regression ex2](#Logistic-Regression-ex2)
@@ -31,6 +31,7 @@ Sample Plots
 <p float="center">
  <img src="https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/A39B530C-8953-450D-9631-6401FF86647B.png" width="50%" height="50%">
  <img src="https://github.com/vagiedd/MachineLearning-Matlab/blob/main/ex1/BD674829-7A17-4EFF-9A70-D3FEA629ABC7.png" width="50%" height="50%">
+ 
 </p>
 
 <p align="center">
@@ -39,3 +40,4 @@ Sample Plots
 
 ## Logistic Regression ex2
 
+-->
