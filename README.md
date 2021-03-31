@@ -2,7 +2,7 @@
 Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera programmed in Matlab.  
 
 # Table of Contents 
-1. [MachineLearning](#MachineLeanring)
+1. [MachineLearning](#MachineLearning)
 2. [Bank](#Bank)
 
 ## MachineLearning
