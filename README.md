@@ -3,8 +3,9 @@ Included is a collection of my machine learning projects as well as my homework 
 
 # Table of Contents 
 1. [MachineLearning](#MachineLearning)
-2. [Projects](#Projects)
-3. [machine-learning-ex](#machine-learning-ex)
+2. [Notebooks](#Notebooks)
+3. [Projects](#Projects)
+4. [machine-learning-ex](#machine-learning-ex)
 
 ## MachineLearning
 Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are included. Supervised.py combines the three mentioned modules. With the exception of neural networks, the regression modules have built in polynomial feature options and feature scaling. The neural network can support any number of hidden layers. All modules have regularization built in.  
