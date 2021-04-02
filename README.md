@@ -22,6 +22,10 @@ https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction. The data i
   
 The models used were regularized linear regression and Gradient Boosting Machine. The linear regression included cross-validation and up to degrees 3 in polynomial features to achieve $R^2$ values of 0.405 and 0.356  for the training and test set respectively. Gradient Boosting included a 60,20,20 split in training, cross validation and test set. The cross validation was used to estimate the n_estimators argument of GradientBoostingRegression in sklearn with depth = 5.  The final $R^2$ values in the prediction of the energy used in Appliances were 0.986 and 0.509 on the training and test set respectively which are similar to the results achieved in the reference. 
 
+### SQL 
+
+Find objects in the Sloan Digital Sky Survey's Data Release 16 using sciserver's SQL module. Objects returned from the query have 3 classifications (star, galaxy, QSO). I use various machine learning classification methods to predict whether an object is a star, galaxy, or QSO based off of the z,ra,dec,dered_u,dered_g,dered_r,dered_i,dered_z features. I run cross validation to determine the final parameters that give the highest F1 score using Neural Network, Gradient Boosting Classification, and Support Vector Machine.   
+
 ## machine-learning-ex
 Matlab homework assignments for the online certification course through Standford. Each homework assignment is labeled as ex(1-8). Various topics included are
 - Linear Regression
