@@ -13,7 +13,7 @@ Python modules that implement various machine learning models such as linear reg
 Implementations of some of my personal machine learning modules in jupyter notebooks. The .py modules are located in the MachineLearning folder but they are directly coded inside the notebooks. 
 The data is taken from my coursera homework. 
 
-- <u>LinearRegression.ipynb</u>: Implements both linear and polynomial regularized regression. Includes plots of cost function history and a contour plot of training parameter history.
+- <ins>LinearRegression.ipynb</ins>: Implements both linear and polynomial regularized regression. Includes plots of cost function history and a contour plot of training parameter history.
 - LogisticRegression.ipynb: Implements linear and polynomial regularized regression. Includes plots of cost function history and the decision boundary of the binary classifiers. 
 - NeuralNetwork.ipynb: Implements a neural network to detect handwritten data. 
 
