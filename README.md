@@ -7,10 +7,15 @@ Included is a collection of my machine learning projects as well as my homework 
 3. [machine-learning-ex](#machine-learning-ex)
 
 ## MachineLearning
-Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are included. Supervised.py combines the three mentioned modules.
+Python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are included. Supervised.py combines the three mentioned modules. With the exception of neural networks, the regression modules have built in polynomial feature options and feature scaling. The neural network can support any number of hidden layers. All modules have regularization built in.  
 
 ## Notebooks 
-Implementations of some of my machine learning modules in jupyter notebooks. Included are results and plots after training the ML models on data given in my online course.  
+Implementations of some of my personal machine learning modules in jupyter notebooks. The .py modules are located in the MachineLearning folder but they are directly coded inside the notebooks. 
+The data is taken from my coursera homework. 
+
+- LinearRegression.ipynb: Implements both linear and polynomial regularized regression. Includes plots of cost function history and a contour plot of training parameter history.
+- LogisticRegression.ipynb: Implements linear and polynomial regularized regression. Includes plots of cost function history and the decision boundary of the binary classifiers. 
+- NeuralNetwork.ipynb: Implements a neural network to detect handwritten data. 
 
 ## Projects
 
