@@ -24,7 +24,7 @@ The models used were regularized linear regression and Gradient Boosting Machine
 
 ### SQL 
 
-Find objects in the Sloan Digital Sky Survey's Data Release 16 using sciserver's SQL module. Objects returned from the query have 3 classifications (star, galaxy, QSO). I use various machine learning classification methods to predict whether an object is a star, galaxy, or QSO based off of the z,ra,dec,dered_u,dered_g,dered_r,dered_i,dered_z features. I run cross validation to determine the final parameters that give the highest F1 score using Neural Network, Gradient Boosting Classification, and Support Vector Machine.   
+Find objects in the Sloan Digital Sky Survey's Data Release 16 using sciserver's SQL module. Objects returned from the query have 3 classifications (star, galaxy, QSO). I use various machine learning classification methods to predict whether an object is a star, galaxy, or QSO based off of the z,ra,dec,dered_u,dered_g,dered_r,dered_i,dered_z features. I run cross validation to determine the final parameters that give the highest F1 score using Neural Network, Gradient Boosting Classification, and Support Vector Machine. The first part of the notebook is based off a course I was a TA for. 
 
 ## machine-learning-ex
 Matlab homework assignments for the online certification course through Standford. Each homework assignment is labeled as ex(1-8). Various topics included are
