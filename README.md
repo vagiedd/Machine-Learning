@@ -35,7 +35,8 @@ Matlab homework assignments for the online certification course through Standfor
 - Gradient Descent
 - K-means clustering
 - Principle Componant Analysis (PCA)
-  
+More will be added as I complete the course. 
+
 <!---
 # Table of Contents
 1. [Linear Regression ex1](#Linear-Regression-ex1)
