@@ -14,8 +14,8 @@ Implementations of some of my personal machine learning modules in jupyter noteb
 The data is taken from my coursera homework. 
 
 - <ins>LinearRegression.ipynb</ins>: Implements both linear and polynomial regularized regression. Includes plots of cost function history and a contour plot of training parameter history.
-- LogisticRegression.ipynb: Implements linear and polynomial regularized regression. Includes plots of cost function history and the decision boundary of the binary classifiers. 
-- NeuralNetwork.ipynb: Implements a neural network to detect handwritten data. 
+- <ins>LogisticRegression.ipynb</ins>: Implements linear and polynomial regularized regression. Includes plots of cost function history and the decision boundary of the binary classifiers. 
+- <ins>NeuralNetwork.ipynb</ins>: Implements a neural network to detect handwritten data. 
 
 ## Projects
 
