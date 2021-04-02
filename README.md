@@ -29,7 +29,7 @@ https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction. The data i
 
   Luis M. Candanedo, Veronique Feldheim, Dominique Deramaix, Data driven prediction models of energy use of appliances in a low-energy house, Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788. 
   
-The models used were regularized linear regression and Gradient Boosting Machine. The linear regression included cross-validation and up to degrees 3 in polynomial features to achieve $R^2$ values of 0.405 and 0.356  for the training and test set respectively. Gradient Boosting included a 60,20,20 split in training, cross validation and test set. The cross validation was used to estimate the n_estimators argument of GradientBoostingRegression in sklearn with depth = 5.  The final $R^2$ values in the prediction of the energy used in Appliances were 0.986 and 0.509 on the training and test set respectively which are similar to the results achieved in the reference. 
+The models used were regularized linear regression and Gradient Boosting Machine. The linear regression included cross-validation and up to degrees 3 in polynomial features to achieve R^2 values of 0.405 and 0.356  for the training and test set respectively. Gradient Boosting included a 60,20,20 split in training, cross validation and test set. The cross validation was used to estimate the n_estimators argument of GradientBoostingRegression in sklearn with depth = 5.  The final R^2 values in the prediction of the energy used in Appliances were 0.986 and 0.509 on the training and test set respectively which are similar to the results achieved in the reference. 
 
 ### SQL 
 
