@@ -1,5 +1,5 @@
 <!--- # MachineLearning --->
-Included is a collection of my machine learning projects as well as my homework assignments for the online Machine Learning course offered by Stanford through coursera programmed in Matlab.  
+Included is a collection of my machine learning projects as well as some of my homework assignments for the online Machine Learning course offered by Stanford through coursera reproduced in python.   
 
 # Table of Contents 
 1. [MachineLearning](#MachineLearning)
