@@ -7,7 +7,7 @@ Included is a collection of my machine learning projects as well as some reprodu
 3. [Projects](#Projects)
 
 ## MachineLearning
-My personal python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The relavent data files are not included. Supervised.py combines the three mentioned modules. With the exception of neural networks, the regression modules have built in polynomial feature options and feature scaling. The neural network can support any number of hidden layers. All modules have regularization built in.  
+My personal python modules that implement various machine learning models such as linear regression, logisitic regression, and neural network.  Adadelta.py is a modified gradient descent type algorithm (arXiv:1212.5701). The machine learning modules also contain examples that reproduce results from the Matlab coursera homework assignments. The actual matlab homework and the relavent data files are not included. Supervised.py combines the three mentioned modules. With the exception of neural networks, the regression modules have built in polynomial feature options and feature scaling. The neural network can support any number of hidden layers. All modules have regularization built in.  
 
 ## Notebooks 
 Implementations of some of my personal machine learning modules in jupyter notebooks. The .py modules are located in the MachineLearning folder but they are directly coded inside the notebooks. 
