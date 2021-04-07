@@ -1,5 +1,5 @@
 <!--- # MachineLearning --->
-Included is a collection of my machine learning projects as well as some reproductions of my homework assignments for the online Machine Learning course offered by Stanford through coursera reproduced in python (data files are not included).   
+Included is a collection of my machine learning projects as well as some reproductions of my homework assignments for the online Machine Learning course offered by Stanford through coursera reproduced in python (homework and data files not included).   
 
 # Table of Contents 
 1. [MachineLearning](#MachineLearning)
