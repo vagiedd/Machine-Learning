@@ -18,6 +18,10 @@ The data is taken from my coursera homework.
 - <ins>NeuralNetwork.ipynb</ins>: Implements a neural network to detect handwritten data. 
 
 ## Projects
+
+### BikeSharing 
+Jupyter notebook using Principle Component Analysis (PCA), feature scaling, and anomaly detection to train a model to predict bicycle sharing count. The data is taken from https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset. The machine learning algorithms used were SGDRegressor and DecisionTreeRegressor. Error in the models was higher with PCA but SGDRegressor + PCA appeared to perform better with anomalies removed. Without PCA, both machine learning algorithms achieved R^2 ~ 1 on training and test sets after cross validation.   
+
 ### SQL 
 Find objects in the Sloan Digital Sky Survey's Data Release 16 using sciserver's SQL module. Objects returned from the query have 3 classifications (star, galaxy, QSO). I use various machine learning classification methods to predict whether an object is a star, galaxy, or QSO based off of the z,ra,dec,dered_u,dered_g,dered_r,dered_i,dered_z features. I run cross validation to determine the final parameters that give the highest F1 score using Neural Network, Gradient Boosting Classification, and Support Vector Machine. The first part of the notebook is based off a course I was a TA for. 
 
